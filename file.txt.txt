@@ -1,3 +1,7 @@
 This is my first project learned from pluralsight
 hello team i am seeking more knowledge on github 
+<<<<<<< HEAD
 hello team this time i made changes on my local machine so i can push it to the main repository later. 
+=======
+hello team this  changes are made in github
+>>>>>>> b70e5bed665078e1ed415d3d73ce285a0fd056ac
